@@ -54,6 +54,12 @@ Through its advanced algorithms and extensive training, DEA RNN serves as a digi
 
  - Detects whether the tweet or text entered is bullying text or not.
 
+  ![Screenshot 2023-06-25 201833](https://github.com/priyanandini1507/Detection-of-cyber-bullying-tweets-in-twitter-by-DEA-RNN-approach/assets/84395860/9b8e1b0f-5e25-452d-95b4-52316634e455)
+   
+  ![Screenshot 2023-06-25 201958](https://github.com/priyanandini1507/Detection-of-cyber-bullying-tweets-in-twitter-by-DEA-RNN-approach/assets/84395860/a9cc1922-477a-4c76-acd0-eaf6cefbdbbf)
+   
+  ![Screenshot 2023-06-25 202011](https://github.com/priyanandini1507/Detection-of-cyber-bullying-tweets-in-twitter-by-DEA-RNN-approach/assets/84395860/1962a420-7084-4b5a-8c55-dcf9cf56d3b6)
+
 ## Acknowledgements:
 
 - This project utilizes TensorFlow and Keras deep learning frameworks.
